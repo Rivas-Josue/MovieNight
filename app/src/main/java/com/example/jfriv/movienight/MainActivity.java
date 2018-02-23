@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Josue Rivas - my comment to commit to the repository
+        //Gama Tellez - my comment :)
     }
 }
