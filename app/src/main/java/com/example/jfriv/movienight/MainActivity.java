@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         //Josue Rivas - my comment to commit to the repository
         //Gama Tellez - my comment :)
+        //cor16004 - my comment
     }
 }
